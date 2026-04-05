@@ -2,7 +2,7 @@
 
 # --- Configuration ---
 REPO_NAME="latexdiff-notables"           # Change to your GitHub repo name
-GITHUB_USERNAME="feathertopmit@yahoo.com"  # Change to your GitHub username
+GITHUB_USERNAME="feathertop"  # Change to your GitHub username
 BRANCH="main"
 COMMIT_MSG="Initial commit"
 
