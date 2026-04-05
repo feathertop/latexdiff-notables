@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # --- Configuration ---
-REPO_NAME="my-new-app"           # Change to your GitHub repo name
-GITHUB_USERNAME="your-username"  # Change to your GitHub username
+REPO_NAME="latexdiff-notables"           # Change to your GitHub repo name
+GITHUB_USERNAME="feathertopmit@yahoo.com"  # Change to your GitHub username
 BRANCH="main"
 COMMIT_MSG="Initial commit"
 
